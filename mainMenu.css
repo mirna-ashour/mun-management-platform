@@ -1,0 +1,49 @@
+
+
+    .container-menu {
+	  height: auto;
+	  width: 100%;
+	  z-index: 4;
+	  display: inline-block;
+	  margin-top: 2.3%;
+	}
+	
+    ul#navbar {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden; 
+     background-color: #1d4200;
+    }
+
+    li {
+     float: left;
+	 padding: 1.2% 1.7%;
+    }
+
+    li a {
+     display: block;
+     color: white;
+     text-align: center;
+     font-family: 'Manjari' , sans-serif;
+     font-size: 105%;
+     text-decoration: none;
+    }
+
+    li:hover:not(.active) {
+     background-color: #333;
+    }
+
+    .active {
+     background-color: #bbbd00;
+    }
+	
+	li:not(.active) a:hover {
+	
+	 color: #bbbd00;
+	
+    }
+    
+	
+	
+	

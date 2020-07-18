@@ -1,0 +1,107 @@
+
+.container  {
+	  width: 41%;
+	  height: auto;
+	  margin-top: 3%;
+	  left: 30%;
+	  position: relative;
+	  background-color: #1d4200;
+	  border-top-right-radius: 30px;
+	  border-top-left-radius: 30px;
+	  z-index: 1;
+	  display: block;
+	}
+	
+	h1  {
+	  font: bold 170% "Manjari", sans-serif; 
+	  position: relative;
+	  color: #bbbd00;
+	  padding: 5%;
+	}
+	
+	.regis-box  {
+	  background-color: white;
+	  height: auto;
+	  width: 41%;
+	  left: 30%;
+	  position: relative;
+	  z-index: 0;
+	  display: block;
+	  bottom: 3%;
+	  border-bottom-right-radius: 30px;
+	  border-bottom-left-radius: 30px;
+	}
+
+	.form  {
+	  list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+	  position: relative;
+	  margin-top: 1%
+	}
+	
+	li {
+	  display: block;
+	  color: black;
+	  font: 90% "Manjari", sans-serif;
+	  font-weight: bold;
+	  position: relative; 
+	  margin-left: 20%;
+	}
+	
+	p  {
+	  font: 110% "Manjari", sans-serif;
+	  font-weight: bold;
+	}
+	
+	input[type=text]  {
+	  background-color: #fffcbb; 
+	  border: 2px solid #bbbd00;
+	  height: 4%; 
+	  width: 75%;
+	  border-style: inset;
+	  border-radius: 15px;
+
+	}
+	
+	input[type=password]  {
+      background-color: #fffcbb; 
+	  border: 2px solid #bbbd00;
+	  height: 4%; 
+	  width: 75%;
+	  border-style: inset;
+	  border-radius: 15px;
+	}
+	
+	input[type=submit] {
+      background: #1d4200;
+      color: white;
+	  border-style: outset;
+	  border-color: #1d4200;
+	  font: bold 110% "Manjari", sans-serif;
+	  text-shadow:none;
+	  text-decoration: none;
+	  padding: 2% 5%;
+	  position: relative;
+	  margin-right: 8%;
+	  border-radius: 15px;
+	}
+
+	.select  {
+	  background-color: #fffcbb; 
+	  border: 2px solid #bbbd00; 
+	 height: 4%; 
+	 width: 75%;
+	  border-radius: 15px;
+	}
+	
+	textarea {
+	  background-color: #fffcbb; 
+	  border: 2px solid #bbbd00;
+	  font: 92% "Manjari", sans-serif;
+	  width: 75%;
+	  height: 20%
+	  border-radius: 20px;
+	  
+	}

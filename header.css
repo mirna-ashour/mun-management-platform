@@ -1,0 +1,45 @@
+
+
+
+     #container { 
+      max-height: 20%; 
+      width: 100%;
+      position: absolute;
+      background-color: white;
+      z-index: 0;
+	    display: inline-block;
+    }
+
+    .container-logo {
+      top: 1%;
+      left: 2%;
+      position: relative;
+      z-index: 1;
+      display: inline;
+    }
+
+    .container-logo2 {
+      z-index: 2;
+	    float: right;
+      display: inline;
+      position: relative;
+      top: 1.3%;
+      margin-right: 2%;
+    }
+ 
+    p#baymun {
+      font: bold 320% 'Manjari', sans-serif; 
+      position: relative;
+      margin-top: 4.5%;
+	    color: #035100;
+    }
+
+    h2 {
+     font-size: 210%;
+	   font-weight: bold; 
+     text-align: center;
+     position: relative;
+     margin-bottom: 20%;
+	}
+	
+	
