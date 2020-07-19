@@ -15,3 +15,5 @@ The respository includes all the code used to run the Baymun registration websit
 - The 'css' folder contains the css files for the Select2
 - The 'js' folder contains the jQuery file and javascript files for the Select2
 - The 'composer' folder contains all the PHPMailer files
+- The 'favicon' file is the icon for the website in the browser tab. It can replaced with a new logo under the same file name
+- The 'baymunlogo2' and 'thimun' files are the images used throughout the website
