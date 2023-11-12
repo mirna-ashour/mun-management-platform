@@ -1,4 +1,4 @@
-# MUN Management Platfrom
+# MUN Management Platform
 Code and libraries used to design Baymun XII (2019)
 
 The respository includes all the code used to run the Baymun registration website. 
